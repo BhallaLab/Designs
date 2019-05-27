@@ -1,0 +1,23 @@
+# -*- coding: utf-8 -*-
+
+# Macro Begin: /home/anzal/work/Freecad/Ephys/assembly_demo.FCMacro +++++++++++++++++++++++++++++++++++++++++++++++++
+import FreeCAD
+
+FreeCAD.getDocument("slice_airation_chamber_assembly").getObject("Part").Placement = App.Placement(App.Vector(0,0,0),App.Rotation(App.Vector(0,0,1),0))
+FreeCAD.getDocument("slice_airation_chamber_assembly").getObject("Part").Placement = App.Placement(App.Vector(0,0,1),App.Rotation(App.Vector(0,0,1),0))
+FreeCAD.getDocument("slice_airation_chamber_assembly").getObject("Part").Placement = App.Placement(App.Vector(0,0,12),App.Rotation(App.Vector(0,0,1),0))
+FreeCAD.getDocument("slice_airation_chamber_assembly").getObject("Part").Placement = App.Placement(App.Vector(0,0,1),App.Rotation(App.Vector(0,0,1),0))
+FreeCAD.getDocument("slice_airation_chamber_assembly").getObject("Part").Placement = App.Placement(App.Vector(0,0,0),App.Rotation(App.Vector(0,0,1),0))
+FreeCAD.getDocument("slice_airation_chamber_assembly").getObject("Part").Placement = App.Placement(App.Vector(0,0,1),App.Rotation(App.Vector(0,0,1),0))
+FreeCAD.getDocument("slice_airation_chamber_assembly").getObject("Part").Placement = App.Placement(App.Vector(0,0,-1),App.Rotation(App.Vector(0,0,1),0))
+FreeCAD.getDocument("slice_airation_chamber_assembly").getObject("Part").Placement = App.Placement(App.Vector(0,0,-12),App.Rotation(App.Vector(0,0,1),0))
+FreeCAD.getDocument("slice_airation_chamber_assembly").getObject("Part").Placement = App.Placement(App.Vector(0,0,-121),App.Rotation(App.Vector(0,0,1),0))
+FreeCAD.getDocument("slice_airation_chamber_assembly").getObject("Part").Placement = App.Placement(App.Vector(0,0,-12),App.Rotation(App.Vector(0,0,1),0))
+FreeCAD.getDocument("slice_airation_chamber_assembly").getObject("Part").Placement = App.Placement(App.Vector(0,0,-1),App.Rotation(App.Vector(0,0,1),0))
+FreeCAD.getDocument("slice_airation_chamber_assembly").getObject("Part").Placement = App.Placement(App.Vector(0,0,1),App.Rotation(App.Vector(0,0,1),0))
+FreeCAD.getDocument("slice_airation_chamber_assembly").getObject("Part").Placement = App.Placement(App.Vector(0,0,-3),App.Rotation(App.Vector(0,0,1),0))
+FreeCAD.getDocument("slice_airation_chamber_assembly").getObject("Part").Placement = App.Placement(App.Vector(0,0,-30),App.Rotation(App.Vector(0,0,1),0))
+FreeCAD.getDocument("slice_airation_chamber_assembly").getObject("Part").Placement = App.Placement(App.Vector(0,0,-3),App.Rotation(App.Vector(0,0,1),0))
+FreeCAD.getDocument("slice_airation_chamber_assembly").getObject("Part").Placement = App.Placement(App.Vector(0,0,-4),App.Rotation(App.Vector(0,0,1),0))
+FreeCAD.getDocument("slice_airation_chamber_assembly").getObject("Part").Placement = App.Placement(App.Vector(0,0,-40),App.Rotation(App.Vector(0,0,1),0))
+# Macro End: /home/anzal/work/Freecad/Ephys/assembly_demo.FCMacro +++++++++++++++++++++++++++++++++++++++++++++++++
